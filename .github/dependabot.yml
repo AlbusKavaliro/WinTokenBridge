@@ -31,3 +31,23 @@ updates:
       prefix: fix
       prefix-development: chore
       include: scope
+
+  - package-ecosystem: nuget
+    directory: /dev/AppHost
+    schedule:
+      interval: daily
+
+  - package-ecosystem: nuget
+    directory: /dev/DataProducer
+    schedule:
+      interval: daily
+
+  - package-ecosystem: nuget
+    directory: /src/AlbusKavaliro.WinTokenBridge
+    schedule:
+      interval: daily
+
+  - package-ecosystem: nuget
+    directory: /src/ServiceDefaults
+    schedule:
+      interval: daily
