@@ -4,20 +4,20 @@
     "net10.0": {
       "Microsoft.AspNetCore.Authentication.Negotiate": {
         "type": "Direct",
-        "requested": "[10.0.10, )",
-        "resolved": "10.0.10",
-        "contentHash": "OWroK6dgXRKygJ95IlYVkZdH/HBcLSO6MyeSe8ZkFco+kUQlOndfHsWE1tjWjPFHnh5cPT6T7vE5kU7QOiqQxQ==",
+        "requested": "[10.0.11, )",
+        "resolved": "10.0.11",
+        "contentHash": "XjvGMQ0+Y22t7jQKS8ZW3UvJNhNC0AT/Et2Mf8XZj4MmNawqpxt8Xvm4wLCkAOrqiVqGmz9b+kwi54DuyfPyCg==",
         "dependencies": {
-          "System.DirectoryServices.Protocols": "10.0.10"
+          "System.DirectoryServices.Protocols": "10.0.11"
         }
       },
       "Microsoft.AspNetCore.OpenApi": {
         "type": "Direct",
-        "requested": "[10.0.10, )",
-        "resolved": "10.0.10",
-        "contentHash": "d4Atx9IHq7JgX0F/h7Db+m9zAUzC+cKdI9k+OWnnyQIOUQtfvjIEuhvbjPigVMkAmPUgCbJ8Yp6M9ghUqHtJSQ==",
+        "requested": "[10.0.11, )",
+        "resolved": "10.0.11",
+        "contentHash": "R/1EATnPLU+gRfB6lwVkMcymmyAY5ppBBdRN/5lhNEiT3xP1sWccuSFkU/f1lQvN/WgRq5Vn8AhCdE3fqgsL/w==",
         "dependencies": {
-          "Microsoft.OpenApi": "2.0.0"
+          "Microsoft.OpenApi": "[2.7.5, 3.0.0)"
         }
       },
       "Microsoft.IdentityModel.JsonWebTokens": {
@@ -148,8 +148,8 @@
       },
       "Microsoft.OpenApi": {
         "type": "Transitive",
-        "resolved": "2.0.0",
-        "contentHash": "GGYLfzV/G/ct80OZ45JxnWP7NvMX1BCugn/lX7TH5o0lcVaviavsLMTxmFV2AybXWjbi3h6FF1vgZiTK6PXndw=="
+        "resolved": "2.7.5",
+        "contentHash": "0FA67RSnRM4tcBKqiqVu/HPdZ9+QOKbmeRjxRUGTCjPU4C0bmUhd97Dso7Yild5P7nOV6GxJ2xrK0Kv/O9xp0w=="
       },
       "OpenTelemetry": {
         "type": "Transitive",
@@ -195,8 +195,8 @@
       },
       "System.DirectoryServices.Protocols": {
         "type": "Transitive",
-        "resolved": "10.0.10",
-        "contentHash": "VQdfESaky3eXlvEuvtBndmZjOt65g+Ah6/0j39MPgPJ3gkbGuURlTFDRq0Y2uX64z5qVEVe1Ln6B4a06+vIzTQ=="
+        "resolved": "10.0.11",
+        "contentHash": "Q4DEPB0wfAMAM6zjCjioFQoDZGC6uCeAZMU30sdjMgVtKbSuSBjhASVlxVOTYmQKCdUqZInnDwZ3W/ZTWB4m3Q=="
       },
       "servicedefaults": {
         "type": "Project",
@@ -288,71 +288,71 @@
     "net10.0/linux-arm": {
       "System.DirectoryServices.Protocols": {
         "type": "Transitive",
-        "resolved": "10.0.10",
-        "contentHash": "VQdfESaky3eXlvEuvtBndmZjOt65g+Ah6/0j39MPgPJ3gkbGuURlTFDRq0Y2uX64z5qVEVe1Ln6B4a06+vIzTQ=="
+        "resolved": "10.0.11",
+        "contentHash": "Q4DEPB0wfAMAM6zjCjioFQoDZGC6uCeAZMU30sdjMgVtKbSuSBjhASVlxVOTYmQKCdUqZInnDwZ3W/ZTWB4m3Q=="
       }
     },
     "net10.0/linux-arm64": {
       "System.DirectoryServices.Protocols": {
         "type": "Transitive",
-        "resolved": "10.0.10",
-        "contentHash": "VQdfESaky3eXlvEuvtBndmZjOt65g+Ah6/0j39MPgPJ3gkbGuURlTFDRq0Y2uX64z5qVEVe1Ln6B4a06+vIzTQ=="
+        "resolved": "10.0.11",
+        "contentHash": "Q4DEPB0wfAMAM6zjCjioFQoDZGC6uCeAZMU30sdjMgVtKbSuSBjhASVlxVOTYmQKCdUqZInnDwZ3W/ZTWB4m3Q=="
       }
     },
     "net10.0/linux-musl-arm64": {
       "System.DirectoryServices.Protocols": {
         "type": "Transitive",
-        "resolved": "10.0.10",
-        "contentHash": "VQdfESaky3eXlvEuvtBndmZjOt65g+Ah6/0j39MPgPJ3gkbGuURlTFDRq0Y2uX64z5qVEVe1Ln6B4a06+vIzTQ=="
+        "resolved": "10.0.11",
+        "contentHash": "Q4DEPB0wfAMAM6zjCjioFQoDZGC6uCeAZMU30sdjMgVtKbSuSBjhASVlxVOTYmQKCdUqZInnDwZ3W/ZTWB4m3Q=="
       }
     },
     "net10.0/linux-musl-x64": {
       "System.DirectoryServices.Protocols": {
         "type": "Transitive",
-        "resolved": "10.0.10",
-        "contentHash": "VQdfESaky3eXlvEuvtBndmZjOt65g+Ah6/0j39MPgPJ3gkbGuURlTFDRq0Y2uX64z5qVEVe1Ln6B4a06+vIzTQ=="
+        "resolved": "10.0.11",
+        "contentHash": "Q4DEPB0wfAMAM6zjCjioFQoDZGC6uCeAZMU30sdjMgVtKbSuSBjhASVlxVOTYmQKCdUqZInnDwZ3W/ZTWB4m3Q=="
       }
     },
     "net10.0/linux-x64": {
       "System.DirectoryServices.Protocols": {
         "type": "Transitive",
-        "resolved": "10.0.10",
-        "contentHash": "VQdfESaky3eXlvEuvtBndmZjOt65g+Ah6/0j39MPgPJ3gkbGuURlTFDRq0Y2uX64z5qVEVe1Ln6B4a06+vIzTQ=="
+        "resolved": "10.0.11",
+        "contentHash": "Q4DEPB0wfAMAM6zjCjioFQoDZGC6uCeAZMU30sdjMgVtKbSuSBjhASVlxVOTYmQKCdUqZInnDwZ3W/ZTWB4m3Q=="
       }
     },
     "net10.0/osx-arm64": {
       "System.DirectoryServices.Protocols": {
         "type": "Transitive",
-        "resolved": "10.0.10",
-        "contentHash": "VQdfESaky3eXlvEuvtBndmZjOt65g+Ah6/0j39MPgPJ3gkbGuURlTFDRq0Y2uX64z5qVEVe1Ln6B4a06+vIzTQ=="
+        "resolved": "10.0.11",
+        "contentHash": "Q4DEPB0wfAMAM6zjCjioFQoDZGC6uCeAZMU30sdjMgVtKbSuSBjhASVlxVOTYmQKCdUqZInnDwZ3W/ZTWB4m3Q=="
       }
     },
     "net10.0/osx-x64": {
       "System.DirectoryServices.Protocols": {
         "type": "Transitive",
-        "resolved": "10.0.10",
-        "contentHash": "VQdfESaky3eXlvEuvtBndmZjOt65g+Ah6/0j39MPgPJ3gkbGuURlTFDRq0Y2uX64z5qVEVe1Ln6B4a06+vIzTQ=="
+        "resolved": "10.0.11",
+        "contentHash": "Q4DEPB0wfAMAM6zjCjioFQoDZGC6uCeAZMU30sdjMgVtKbSuSBjhASVlxVOTYmQKCdUqZInnDwZ3W/ZTWB4m3Q=="
       }
     },
     "net10.0/win-arm64": {
       "System.DirectoryServices.Protocols": {
         "type": "Transitive",
-        "resolved": "10.0.10",
-        "contentHash": "VQdfESaky3eXlvEuvtBndmZjOt65g+Ah6/0j39MPgPJ3gkbGuURlTFDRq0Y2uX64z5qVEVe1Ln6B4a06+vIzTQ=="
+        "resolved": "10.0.11",
+        "contentHash": "Q4DEPB0wfAMAM6zjCjioFQoDZGC6uCeAZMU30sdjMgVtKbSuSBjhASVlxVOTYmQKCdUqZInnDwZ3W/ZTWB4m3Q=="
       }
     },
     "net10.0/win-x64": {
       "System.DirectoryServices.Protocols": {
         "type": "Transitive",
-        "resolved": "10.0.10",
-        "contentHash": "VQdfESaky3eXlvEuvtBndmZjOt65g+Ah6/0j39MPgPJ3gkbGuURlTFDRq0Y2uX64z5qVEVe1Ln6B4a06+vIzTQ=="
+        "resolved": "10.0.11",
+        "contentHash": "Q4DEPB0wfAMAM6zjCjioFQoDZGC6uCeAZMU30sdjMgVtKbSuSBjhASVlxVOTYmQKCdUqZInnDwZ3W/ZTWB4m3Q=="
       }
     },
     "net10.0/win-x86": {
       "System.DirectoryServices.Protocols": {
         "type": "Transitive",
-        "resolved": "10.0.10",
-        "contentHash": "VQdfESaky3eXlvEuvtBndmZjOt65g+Ah6/0j39MPgPJ3gkbGuURlTFDRq0Y2uX64z5qVEVe1Ln6B4a06+vIzTQ=="
+        "resolved": "10.0.11",
+        "contentHash": "Q4DEPB0wfAMAM6zjCjioFQoDZGC6uCeAZMU30sdjMgVtKbSuSBjhASVlxVOTYmQKCdUqZInnDwZ3W/ZTWB4m3Q=="
       }
     }
   }
