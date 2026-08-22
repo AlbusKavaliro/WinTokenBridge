@@ -4,18 +4,18 @@
     "net10.0": {
       "Aspire.Dashboard.Sdk.linux-x64": {
         "type": "Direct",
-        "requested": "[13.5.1, )",
-        "resolved": "13.5.1",
-        "contentHash": "8KBJf02fUBr+gFdJjKJrFvO+pE+acWpCWrD0mLYi5SBiaSaWbWGNBqqjYW+n7xEHuKPCMEgbrGeMBzSkcha37Q=="
+        "requested": "[13.5.2, )",
+        "resolved": "13.5.2",
+        "contentHash": "1xdJD5GNcjagxk/jRZZOZjqJpGDV3olHckUPoxRsRi0RqCtzqdV1ROkKaiv/MBs/m/47hSvsOw8oMYMwuClJwQ=="
       },
       "Aspire.Hosting.AppHost": {
         "type": "Direct",
-        "requested": "[13.5.1, )",
-        "resolved": "13.5.1",
-        "contentHash": "uM+y3+jecllEtCFAUYYPQ5Naw23Bey04V1h0eSW8NgjbOcEvAvF42LEoHJToiztIq8yTuz1mFHKeHF9aMhNpFA==",
+        "requested": "[13.5.2, )",
+        "resolved": "13.5.2",
+        "contentHash": "v1raXGGY1IHwcPjDbxRC67+9AZvEkXmOBmi4OG9RI5/lsfRMAVJmTIdy+qYwi3PGcFG11hKxRUiOYc7WQ/eFEg==",
         "dependencies": {
           "AspNetCore.HealthChecks.Uris": "9.0.0",
-          "Aspire.Hosting": "13.5.1",
+          "Aspire.Hosting": "13.5.2",
           "Google.Protobuf": "3.34.1",
           "Grpc.AspNetCore": "2.80.0",
           "Grpc.Net.ClientFactory": "2.80.0",
@@ -49,14 +49,14 @@
       },
       "Aspire.Hosting.Orchestration.linux-x64": {
         "type": "Direct",
-        "requested": "[13.5.1, )",
-        "resolved": "13.5.1",
-        "contentHash": "JWtB6+/a8W8+rRw/4NlyV2yuxJXK8xS/UJ5d1A0K0V6dTvvbBlQ0jI3/wJC1P8nW/AxwRyB50jCwRn+8IlFrnA=="
+        "requested": "[13.5.2, )",
+        "resolved": "13.5.2",
+        "contentHash": "HMtMwBXlzDrgHHif0jp58trOtOFL3GJiULlObkpHlkm8eXgVAYME7AKREwlFgPwaluq3k7pS37LpMnkdGhGGsw=="
       },
       "Aspire.Hosting": {
         "type": "Transitive",
-        "resolved": "13.5.1",
-        "contentHash": "d2ITV9b5w3NuicMqfnwWNZW6RzU2nczfI3ksBaIcbJW3sPMrbNxkfP6i8Uhz9SmFqKCo96LlJV5n1N528FxZ8Q==",
+        "resolved": "13.5.2",
+        "contentHash": "/Feq5MVWvVyMZDL6jBYyvMdGY51V9OOIuhGGHCaeuFf25uay7xr3KMoNud63SHLx6hegZgs5QwOsWN9t8FmStg==",
         "dependencies": {
           "AspNetCore.HealthChecks.Uris": "9.0.0",
           "Google.Protobuf": "3.34.1",
