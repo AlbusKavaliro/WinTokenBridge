@@ -206,7 +206,7 @@
           "OpenTelemetry.Exporter.OpenTelemetryProtocol": "[1.18.0, )",
           "OpenTelemetry.Extensions.Hosting": "[1.18.0, )",
           "OpenTelemetry.Instrumentation.AspNetCore": "[1.18.0, )",
-          "OpenTelemetry.Instrumentation.GrpcNetClient": "[1.17.0-beta.1, )",
+          "OpenTelemetry.Instrumentation.GrpcNetClient": "[1.18.0-beta.1, )",
           "OpenTelemetry.Instrumentation.Http": "[1.18.0, )",
           "OpenTelemetry.Instrumentation.Runtime": "[1.18.0, )"
         }
@@ -259,11 +259,11 @@
       },
       "OpenTelemetry.Instrumentation.GrpcNetClient": {
         "type": "CentralTransitive",
-        "requested": "[1.17.0-beta.1, )",
-        "resolved": "1.17.0-beta.1",
-        "contentHash": "1aaOEiKjTR84rqQd6Q8Ef685wJQJr5s6kfzOhFICxhybhnptyMGTy36qYCyuW0IvFjFWRF6T/BE5bWlZhSLHBQ==",
+        "requested": "[1.18.0-beta.1, )",
+        "resolved": "1.18.0-beta.1",
+        "contentHash": "XdumNLWe4eg0qtEy1v3hwOOJA98MsrI0Vgyt5sRsXJlFnsco/bYPeIiwa56nn2lpzJ1Yw5KSgoy93hRvDz/u9w==",
         "dependencies": {
-          "OpenTelemetry": "[1.17.0, 2.0.0)"
+          "OpenTelemetry": "[1.18.0, 2.0.0)"
         }
       },
       "OpenTelemetry.Instrumentation.Http": {
