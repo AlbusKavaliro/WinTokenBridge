@@ -208,7 +208,7 @@
           "OpenTelemetry.Instrumentation.AspNetCore": "[1.17.0, )",
           "OpenTelemetry.Instrumentation.GrpcNetClient": "[1.17.0-beta.1, )",
           "OpenTelemetry.Instrumentation.Http": "[1.18.0, )",
-          "OpenTelemetry.Instrumentation.Runtime": "[1.17.0, )"
+          "OpenTelemetry.Instrumentation.Runtime": "[1.18.0, )"
         }
       },
       "Microsoft.Extensions.Http.Resilience": {
@@ -277,11 +277,11 @@
       },
       "OpenTelemetry.Instrumentation.Runtime": {
         "type": "CentralTransitive",
-        "requested": "[1.17.0, )",
-        "resolved": "1.17.0",
-        "contentHash": "HyYenisDn/xdtyVXdjImsCl+RNC2gq01N0rvSR7tsYAylXR2sxX/YgMsyTajMXA27+r1vB7lNU8cWRhV0fwL+Q==",
+        "requested": "[1.18.0, )",
+        "resolved": "1.18.0",
+        "contentHash": "McuXGjBJDL/Cown2PxfUQysK98MZG7ZDjO/IKUtaAx8t1m0PB0d+QtJC79RFTVipMhRIwjJiULNOp0OGfZbvwg==",
         "dependencies": {
-          "OpenTelemetry.Api": "[1.17.0, 2.0.0)"
+          "OpenTelemetry.Api": "[1.18.0, 2.0.0)"
         }
       }
     },
